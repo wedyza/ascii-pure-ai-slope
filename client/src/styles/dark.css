@@ -1,0 +1,11 @@
+[data-theme="dark"] {
+  --bg-primary: #1a1a2e;
+  --bg-secondary: #16213e;
+  --text-primary: #eaeaea;
+  --text-secondary: #a0a0a0;
+  --accent: #0f3460;
+  --accent-hover: #1a4a7a;
+  --error: #e74c3c;
+  --success: #2ecc71;
+  --border: #2a2a4a;
+}
